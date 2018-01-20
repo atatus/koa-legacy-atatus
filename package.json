@@ -1,0 +1,29 @@
+{
+  "name": "koa-legacy-atatus",
+  "description": "Koa middleware to allow Atatus monitor Koa 1.x applications",
+  "version": "0.0.1",
+  "homepage": "https://github.com/atatus/koa-legacy-atatus",
+  "author": {
+    "name": "Atatus",
+    "email": "hello@atatus.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atatus/koa-legacy-atatus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atatus/koa-legacy-atatus/issues"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 4.2"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "koa",
+    "atatus"
+  ],
+  "license": "MIT",
+  "private": false
+}
